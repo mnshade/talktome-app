@@ -1,0 +1,12 @@
+.agulhao{
+  background-image: url("/assets/images/smartphoneLogoAgulhao.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.col{
+  height: 90vh;
+}
+label{
+  margin-top: 30px;
+}

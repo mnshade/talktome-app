@@ -1,0 +1,74 @@
+h1{
+  text-align: center;
+}
+
+.col{
+  margin: 13px;
+  border-radius: 30px;
+  color: #F8F8F8;
+  padding-top: 15px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+table{
+  width: 100%;
+
+}
+.botao-editar{
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  float: right;
+  width: 140px;
+  color: black;
+}
+.th-id{
+  width: 30px;
+}
+.th-titulo{
+  width: 170px;
+}
+.container-fluid mat-form-field{
+  width: 100%;
+  color: black;
+}
+.filtro-pesquisa{
+  background-color: white;
+  border-radius: 10px;
+  color: black;
+
+  margin: 0 0 5px;
+}
+mat-paginator{
+  background-color: white;
+  border-radius: 10px;
+  color: black;
+  float: right;
+  margin: 5px 0 0;
+}
+
+.container table{
+  background-color: white;
+  border-top: 1px solid black;
+}
+.container th{
+  color: black;
+  border-top: 1px solid black;
+  margin: 0 0 5px;
+}
+.container td{
+  color: black;
+  border-top: 1px solid black;
+}
+
+::placeholder{
+  color: black;
+}
+
+mat-form-field{
+  padding: 0 15px 0;
+}
+.mat-select-arrow{
+  color: black;
+}
+

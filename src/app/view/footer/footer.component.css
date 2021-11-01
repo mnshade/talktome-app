@@ -1,0 +1,17 @@
+a:link{
+  text-decoration: none;
+}
+ul{
+  list-style-type: none;
+}
+
+.nav-footer ul{
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-footer a{
+  color: #A8A8B3;
+}
+
+
